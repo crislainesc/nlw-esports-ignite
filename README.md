@@ -6,7 +6,7 @@
     Rocketseat - Next Level Week - Ignite 🚀
   </h2>
   <h3 align="center"> 
-    Application for requesting maintenance of a company's internal equipment.
+    Find your Duo, a platform that helps gamers find a partner to play their favorite game online.
   </h3>
 
   <p align="center">
