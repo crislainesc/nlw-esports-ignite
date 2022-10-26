@@ -30,7 +30,7 @@ Next Level Week is an event on the Rocketseat educational platform to develop an
 
 ### ✨ Features
 
-- Landing page using React JS
+- Landing page using ReactJS
 - Mobile app using React Native
 - Server with Express
 - Local database with SQLite and Prisma
